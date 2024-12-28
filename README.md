@@ -11,4 +11,4 @@ El archivo Coreperi_leg.py calcula el coreness de cada instancia y crea una imá
 
 El archivo analisis.py contiene todo el código utilizado para realizar el análisis de la red.
 
-Por último el archivo grafigrafo.py crea una imágen del grafo donde el tamaño del nodo va según su grado total a mayor grado más tamaño y su color según su nivel de intermediación.
+Por último el archivo graficografo.py crea una imágen del grafo donde el tamaño del nodo va según su grado total a mayor grado más tamaño y su color según su nivel de intermediación.
